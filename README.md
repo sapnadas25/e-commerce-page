@@ -37,7 +37,7 @@ To build a functional product page using **HTML** and **CSS** that displays:
 3. Enjoy browsing the product page.
 
 ## 🖼️ Preview
-![Product Page Screenshot]()
+![Product Page Screenshot](https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSBs2As8pqg3Te-ClggtWNEpDYJ6yKmXhgmdNFP8J5S04Ols6AW4FLA4JGUYcyC6f1E2eTeW_FN8p7NT3B-nVr1Zs7yhZwAVRnr6Q0IHysTJI70ZdpntMU7C3c)
 
 ## 📣 Acknowledgements
 - [Unsplash](https://unsplash.com) – For high-quality placeholder images.
